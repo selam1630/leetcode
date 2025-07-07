@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/selam1630/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/selam1630/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/selam1630/leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/selam1630/leetcode/tree/master/0283-move-zeroes) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/selam1630/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/selam1630/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/selam1630/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/selam1630/leetcode/tree/master/0136-single-number) |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/selam1630/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/selam1630/leetcode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/selam1630/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/selam1630/leetcode/tree/master/1019-squares-of-a-sorted-array) |
