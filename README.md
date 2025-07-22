@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/selam1630/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/selam1630/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
@@ -61,9 +62,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/selam1630/leetcode/tree/master/0070-climbing-stairs) |
 | [0523-continuous-subarray-sum](https://github.com/selam1630/leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/selam1630/leetcode/tree/master/0523-continuous-subarray-sum) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/selam1630/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
